@@ -29,7 +29,6 @@ public class Course {
         this.credits = credits;
     }
 
-    // Геттеры и сеттеры
     public int getId() { return id; }
     public String getName() { return name; }
     public int getCredits() { return credits; }

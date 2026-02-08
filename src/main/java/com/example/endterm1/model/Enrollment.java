@@ -26,7 +26,6 @@ public class Enrollment {
         this.course = course;
     }
 
-    // Геттеры и сеттеры
     public int getId() { return id; }
     public Student getStudent() { return student; }
     public Course getCourse() { return course; }

@@ -29,7 +29,6 @@ public class Student {
         this.email = email;
     }
 
-    // Геттеры и сеттеры
     public int getId() { return id; }
     public String getName() { return name; }
     public String getEmail() { return email; }
